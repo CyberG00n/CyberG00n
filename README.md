@@ -10,7 +10,7 @@ I'll admit, i'm relatively new to this field, but my enthusiasm for learning dri
  
 Let's connect and share our journeys of discovery, we could also have a chess dual :)!
 
-<img align="right" height="100" width="150" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpnenV2cXFpZHNnbTJtYWs1eHh1NG12NjZsYXBubmxmcTVkN2ZhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ThrM4jEi2lBxd7X2yz/giphy.gif" />
+<img align="right" height="150" width="200" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpnenV2cXFpZHNnbTJtYWs1eHh1NG12NjZsYXBubmxmcTVkN2ZhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ThrM4jEi2lBxd7X2yz/giphy.gif" />
 
 
 A little bit more about me:
@@ -27,7 +27,7 @@ def __steven__(self):
     }
 ```
 ## Featured Projects!
-***
+
 
 <a href="https://github.com/CyberG00n/AdvancedKeylogger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CyberG00n&repo=AdvancedKeylogger&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Advanced-Keylogger" />
@@ -35,7 +35,9 @@ def __steven__(self):
 <a href="https://github.com/CyberG00n/FailedRDP-Mapping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CyberG00n&repo=FailedRDP-Mapping&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Advanced-Keylogger" />
 </a>
+<pre>
 
+</pre>
 Thank you, I hope you have an amazing day. <img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif?cid=790b7611slu7k811bk8cu7wzfrw38d1ietzip4pe5ot951dk\&ep=v1\_stickers\_search\&rid=giphy.gif\&ct=s
 " width="100px" align="center">
 
